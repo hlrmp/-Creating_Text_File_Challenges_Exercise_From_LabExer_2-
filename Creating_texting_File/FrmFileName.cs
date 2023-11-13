@@ -21,12 +21,12 @@ namespace Creating_texting_File
         {
           SetFileName = txtFileName.Text;
 
-            FrmRegistration fr = new FrmRegistration();
-            fr.ShowDialog();
-
+           
             Close();
 
-
+            FrmRegistration fr = new FrmRegistration();
+            fr.ShowDialog();
+ 
         }
 
     }
