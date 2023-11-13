@@ -17,26 +17,33 @@ namespace Creating_texting_File
         {
             InitializeComponent();
         }
-
+        string getInput;
         private void btnCreate_Click(object sender, EventArgs e)
         {
+
+
+
             FrmFileName frmfname = new FrmFileName();
             frmfname.ShowDialog();
 
-            string getInput = txtInput.Text;
+            getInput = txtInput.Text;
+           
+        }
 
-
+        private void frmlab_Load(object sender, EventArgs e)
+        {
             string docPath =
-            Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
-            using (StreamWriter outputFile = new StreamWriter(Path.Combine(docPath,
-            FrmFileName.SetFileName)))
+           Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
+
+            using (StreamWriter outputFile = new StreamWriter(Path.Combine(docPath, FrmFileName.SetFileName + ".txt")))
 
             {
                 outputFile.WriteLine(getInput);
                 Console.WriteLine(getInput);
-            }
 
-           
+                outputFile.Flush();
+                outputFile.Close();
+            }
         }
     }
 }

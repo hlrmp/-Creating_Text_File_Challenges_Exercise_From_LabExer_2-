@@ -68,6 +68,7 @@
             this.Controls.Add(this.txtInput);
             this.Name = "frmlab";
             this.Text = "frmlab";
+            this.Load += new System.EventHandler(this.frmlab_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

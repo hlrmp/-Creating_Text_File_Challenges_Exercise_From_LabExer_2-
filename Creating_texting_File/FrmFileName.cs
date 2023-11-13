@@ -21,7 +21,7 @@ namespace Creating_texting_File
         {
           SetFileName = txtFileName.Text;
             Close();
-
+           
             FrmRegistration fr = new FrmRegistration();
             fr.ShowDialog();
 
