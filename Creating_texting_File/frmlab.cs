@@ -17,7 +17,7 @@ namespace Creating_texting_File
         {
             InitializeComponent();
         }
-        string getInput;
+       
         private void btnCreate_Click(object sender, EventArgs e)
         {
 
@@ -26,14 +26,10 @@ namespace Creating_texting_File
             FrmFileName frmfname = new FrmFileName();
             frmfname.ShowDialog();
 
-            getInput = txtInput.Text;
-           
-        }
+           string getInput = txtInput.Text;
 
-        private void frmlab_Load(object sender, EventArgs e)
-        {
             string docPath =
-           Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
+          Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
 
             using (StreamWriter outputFile = new StreamWriter(Path.Combine(docPath, FrmFileName.SetFileName + ".txt")))
 
@@ -44,6 +40,11 @@ namespace Creating_texting_File
                 outputFile.Flush();
                 outputFile.Close();
             }
+        }
+
+        private void frmlab_Load(object sender, EventArgs e)
+        {
+           
         }
     }
 }
