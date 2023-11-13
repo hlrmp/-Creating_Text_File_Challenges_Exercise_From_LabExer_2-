@@ -39,12 +39,15 @@ namespace Creating_texting_File
 
                 outputFile.Flush();
                 outputFile.Close();
+
+                
             }
+           
         }
 
         private void frmlab_Load(object sender, EventArgs e)
         {
-           
+            
         }
     }
 }

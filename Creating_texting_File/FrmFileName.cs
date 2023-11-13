@@ -20,13 +20,14 @@ namespace Creating_texting_File
         private void btnOkay_Click(object sender, EventArgs e)
         {
           SetFileName = txtFileName.Text;
-            Close();
-           
+
             FrmRegistration fr = new FrmRegistration();
             fr.ShowDialog();
 
-           
+            Close();
+
 
         }
+
     }
 }
