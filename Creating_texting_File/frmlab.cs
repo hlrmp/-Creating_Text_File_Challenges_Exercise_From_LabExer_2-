@@ -25,6 +25,7 @@ namespace Creating_texting_File
 
             string getInput = txtInput.Text;
 
+
             string docPath =
             Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
             using (StreamWriter outputFile = new StreamWriter(Path.Combine(docPath,
