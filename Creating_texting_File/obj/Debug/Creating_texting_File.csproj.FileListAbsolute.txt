@@ -39,3 +39,17 @@ C:\Users\reichel domingo\Source\Repos\hlrmp\-Creating_Text_File_Challenges_Exerc
 C:\Users\reichel domingo\Source\Repos\hlrmp\-Creating_Text_File_Challenges_Exercise_From_LabExer_2-\Creating_texting_File\obj\Debug\Creating_texting_File.csproj.CoreCompileInputs.cache
 C:\Users\reichel domingo\Source\Repos\hlrmp\-Creating_Text_File_Challenges_Exercise_From_LabExer_2-\Creating_texting_File\obj\Debug\Creating_texting_File.exe
 C:\Users\reichel domingo\Source\Repos\hlrmp\-Creating_Text_File_Challenges_Exercise_From_LabExer_2-\Creating_texting_File\obj\Debug\Creating_texting_File.pdb
+C:\Users\reichel domingo\Source\Repos\hlrmp\NEW-Creating_Text_File_Challenges_Exercise_From_LabExer_2-\Creating_texting_File\bin\Debug\Creating_texting_File.exe.config
+C:\Users\reichel domingo\Source\Repos\hlrmp\NEW-Creating_Text_File_Challenges_Exercise_From_LabExer_2-\Creating_texting_File\bin\Debug\Creating_texting_File.exe
+C:\Users\reichel domingo\Source\Repos\hlrmp\NEW-Creating_Text_File_Challenges_Exercise_From_LabExer_2-\Creating_texting_File\bin\Debug\Creating_texting_File.pdb
+C:\Users\reichel domingo\Source\Repos\hlrmp\NEW-Creating_Text_File_Challenges_Exercise_From_LabExer_2-\Creating_texting_File\obj\Debug\Creating_texting_File.csproj.AssemblyReference.cache
+C:\Users\reichel domingo\Source\Repos\hlrmp\NEW-Creating_Text_File_Challenges_Exercise_From_LabExer_2-\Creating_texting_File\obj\Debug\Creating_texting_File.csproj.SuggestedBindingRedirects.cache
+C:\Users\reichel domingo\Source\Repos\hlrmp\NEW-Creating_Text_File_Challenges_Exercise_From_LabExer_2-\Creating_texting_File\obj\Debug\Creating_texting_File.FrmFileName.resources
+C:\Users\reichel domingo\Source\Repos\hlrmp\NEW-Creating_Text_File_Challenges_Exercise_From_LabExer_2-\Creating_texting_File\obj\Debug\Creating_texting_File.frmlab.resources
+C:\Users\reichel domingo\Source\Repos\hlrmp\NEW-Creating_Text_File_Challenges_Exercise_From_LabExer_2-\Creating_texting_File\obj\Debug\Creating_texting_File.FrmRegistration.resources
+C:\Users\reichel domingo\Source\Repos\hlrmp\NEW-Creating_Text_File_Challenges_Exercise_From_LabExer_2-\Creating_texting_File\obj\Debug\Creating_texting_File.FrmStudentRecord.resources
+C:\Users\reichel domingo\Source\Repos\hlrmp\NEW-Creating_Text_File_Challenges_Exercise_From_LabExer_2-\Creating_texting_File\obj\Debug\Creating_texting_File.Properties.Resources.resources
+C:\Users\reichel domingo\Source\Repos\hlrmp\NEW-Creating_Text_File_Challenges_Exercise_From_LabExer_2-\Creating_texting_File\obj\Debug\Creating_texting_File.csproj.GenerateResource.cache
+C:\Users\reichel domingo\Source\Repos\hlrmp\NEW-Creating_Text_File_Challenges_Exercise_From_LabExer_2-\Creating_texting_File\obj\Debug\Creating_texting_File.csproj.CoreCompileInputs.cache
+C:\Users\reichel domingo\Source\Repos\hlrmp\NEW-Creating_Text_File_Challenges_Exercise_From_LabExer_2-\Creating_texting_File\obj\Debug\Creating_texting_File.exe
+C:\Users\reichel domingo\Source\Repos\hlrmp\NEW-Creating_Text_File_Challenges_Exercise_From_LabExer_2-\Creating_texting_File\obj\Debug\Creating_texting_File.pdb
