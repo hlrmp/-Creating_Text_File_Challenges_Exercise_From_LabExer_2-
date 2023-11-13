@@ -110,6 +110,8 @@ namespace Creating_texting_File
             FrmStudentRecord fr = new FrmStudentRecord();
             fr.Show();
 
+            this.Close();
+
         }
     }
 }

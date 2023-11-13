@@ -29,9 +29,9 @@ namespace Creating_texting_File
            string getInput = txtInput.Text;
 
             string docPath =
-          Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
+            Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
 
-            using (StreamWriter outputFile = new StreamWriter(Path.Combine(docPath, FrmFileName.SetFileName + ".txt")))
+            using (StreamWriter outputFile = new StreamWriter(Path.Combine(docPath, FrmFileName.SetFileName + ".txt") , true))
 
             {
                 outputFile.WriteLine(getInput);
@@ -42,7 +42,8 @@ namespace Creating_texting_File
 
                 
             }
-           
+
+            this.Hide();
         }
 
         private void frmlab_Load(object sender, EventArgs e)

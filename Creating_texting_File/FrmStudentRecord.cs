@@ -23,6 +23,7 @@ namespace Creating_texting_File
             FrmRegistration fr = new FrmRegistration();
             fr.Show();
 
+            this.Hide();
         }
 
         public static string path;

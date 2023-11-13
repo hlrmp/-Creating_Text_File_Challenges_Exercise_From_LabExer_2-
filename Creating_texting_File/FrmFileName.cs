@@ -17,6 +17,9 @@ namespace Creating_texting_File
             InitializeComponent();
         }
         public static string SetFileName;
+
+        FrmRegistration fr = new FrmRegistration();
+
         private void btnOkay_Click(object sender, EventArgs e)
         {
           SetFileName = txtFileName.Text;
@@ -24,7 +27,7 @@ namespace Creating_texting_File
            
             Close();
 
-            FrmRegistration fr = new FrmRegistration();
+           
             fr.ShowDialog();
  
         }
